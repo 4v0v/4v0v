@@ -1,8 +1,10 @@
 ## G4M3S
 
-<a href="https://github.com/4v0v/br34k0ut"> BR34K0UT</a>
-<a href="https://github.com/4v0v/sh00t"> SH00T </a>
-<a href="https://github.com/4v0v/sp4c3"> SP4C3 </a>
+- <a href="https://github.com/4v0v/br34k0ut"> BR34K0UT</a>
+- <a href="https://github.com/4v0v/sh00t"> SH00T </a>
+- <a href="https://github.com/4v0v/sp4c3"> SP4C3 </a>
+
+---
 
 <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_green.png" align="left" height="120" width="120" />
 <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_red.png" align="left" height="120" width="120" />
