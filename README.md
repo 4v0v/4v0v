@@ -4,8 +4,6 @@
 - <a href="https://github.com/4v0v/sh00t"> SH00T </a>
 - <a href="https://github.com/4v0v/sp4c3"> SP4C3 </a>
 
----
-
 <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_green.png" align="left" height="120" width="120" />
 <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_red.png" align="left" height="120" width="120" />
 <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_orange.png" align="left" height="120" width="120" />
@@ -18,6 +16,3 @@
 <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_grey.png" align="left" height="120" width="120" />
 <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_dgreen.png" align="left" height="120" width="120" />
 <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_aqua.png" align="left" height="120" width="120" />
-
-
-
