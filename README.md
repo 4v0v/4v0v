@@ -1,6 +1,6 @@
 ## W3BS1T3
 
-<a href="https://4v0v.github.io/">4v0v's website</a>
+- <a href="https://4v0v.github.io/">W3BS1T3</a>
 
 ## G4M3S
 
