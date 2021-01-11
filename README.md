@@ -8,6 +8,7 @@
 - <a href="https://github.com/4v0v/sh00t"> SH00T </a>
 - <a href="https://github.com/4v0v/sp4c3"> SP4C3 </a>
 - <a href="https://github.com/4v0v/rpg"> RPG </a>
+- <a href="https://github.com/4v0v/t3tr1s"> T3TR1S </a>
 
 
 ## H3LL0
