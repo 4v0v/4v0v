@@ -14,6 +14,11 @@
 - <a href="https://github.com/4v0v/scr0ll"> SCR0LL </a>
 - <a href="https://github.com/4v0v/m4r10"> M4R10 </a>
 
+## T00LS
+
+- <a href="https://github.com/4v0v/l3x3r"> LUA L3X3R </a>
+- <a href="https://github.com/4v0v/4n1m"> ANIM41I0N PR0GRAM </a>
+
 ## H3LL0
 <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_green.png" align="left" height="120" width="120" />
 <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_red.png" align="left" height="120" width="120" />
@@ -27,3 +32,5 @@
 <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_grey.png" align="left" height="120" width="120" />
 <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_dgreen.png" align="left" height="120" width="120" />
 <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_aqua.png" align="left" height="120" width="120" />
+
+
