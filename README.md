@@ -10,7 +10,7 @@
 - <a href="https://github.com/4v0v/scr0ll"> SCR0LL </a>
 - <a href="https://github.com/4v0v/m4r10"> M4R10 </a>
 
-## 0TH3R
+## 0TH3RS
 
 - <a href="https://4v0v.github.io/"> W3BS1T3 </a>
 - <a href="https://github.com/4v0v/l3x3r"> LUA L3X3R </a>
