@@ -1,7 +1,3 @@
-## W3BS1T3
-
-- <a href="https://4v0v.github.io/">W3BS1T3</a>
-
 ## G4M3S
 
 - <a href="https://github.com/4v0v/br34k0ut"> BR34K0UT</a>
@@ -14,8 +10,9 @@
 - <a href="https://github.com/4v0v/scr0ll"> SCR0LL </a>
 - <a href="https://github.com/4v0v/m4r10"> M4R10 </a>
 
-## T00LS
+## 0TH3R
 
+- <a href="https://4v0v.github.io/"> W3BS1T3 </a>
 - <a href="https://github.com/4v0v/l3x3r"> LUA L3X3R </a>
 - <a href="https://github.com/4v0v/4n1m"> ANIM41I0N PR0GRAM </a>
 
