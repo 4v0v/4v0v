@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_wall.png"  />
+
 ## G4M3S
 
 - <a href="https://github.com/4v0v/br34k0ut"> BR34K0UT</a>
@@ -17,7 +19,4 @@
 - <a href="https://github.com/4v0v/phys1cs"> PHYS1CS </a>
 - <a href="https://github.com/4v0v/4n1m"> 4N1M </a>
 
-<img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_wall.png" align="left" width="720" height="240"  />
-
-
-
+<img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_wall.png"  />
