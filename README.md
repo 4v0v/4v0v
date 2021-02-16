@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/4v0v/4v0v/03a3268e308813e0684e916590a80b046ff3bf71/image.svg">
 </p>
 
-![](./avatar_wall.png)
+![](./avatar_line_1.png)
 
 ## G4M3S
 
@@ -27,4 +27,4 @@
 - <a href="https://github.com/4v0v/phys1cs"> PHYS1CS </a>
 - <a href="https://github.com/4v0v/4n1m"> 4N1M </a>
 
-![](./avatar_wall.png)
+![](./avatar_line_2.png)
