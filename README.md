@@ -7,7 +7,6 @@
 </p>
 
 ![](./avatar_line_1.png)
----
 
 ## G4M3S
 
