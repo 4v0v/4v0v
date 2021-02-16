@@ -7,6 +7,7 @@
 </p>
 
 ![](./avatar_line_1.png)
+---
 
 ## G4M3S
 
@@ -27,4 +28,5 @@
 - <a href="https://github.com/4v0v/phys1cs"> PHYS1CS </a>
 - <a href="https://github.com/4v0v/4n1m"> 4N1M </a>
 
+---
 ![](./avatar_line_2.png)
