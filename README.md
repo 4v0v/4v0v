@@ -1,3 +1,5 @@
+![](./image.svg)![](./image.svg)![](./image.svg)![](./image.svg)![](./image.svg)![](./image.svg)
+
 ![](./avatar_wall.png)
 
 ## G4M3S
