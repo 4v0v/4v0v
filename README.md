@@ -17,7 +17,7 @@
 - <a href="https://github.com/4v0v/phys1cs"> PHYS1CS </a>
 - <a href="https://github.com/4v0v/4n1m"> 4N1M </a>
 
-<img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_wall.png" align="left" width="240" height="720"  />
+<img src="https://raw.githubusercontent.com/4v0v/4v0v/main/avatar_wall.png" align="left" width="720" height="240"  />
 
 
 
