@@ -22,7 +22,7 @@
 
 ## 0TH3RS
 
-- <a href="https://github.com/4v0v/l3x3r"> L3X3R </a>
+- <a href="https://github.com/4v0v/p4rs3r"> P4RS3R </a>
 - <a href="https://github.com/4v0v/m0nk3y"> M0NK3Y </a>
 - <a href="https://github.com/4v0v/phys1cs"> PHYS1CS </a>
 - <a href="https://github.com/4v0v/4n1m"> 4N1M </a>
