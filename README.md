@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/4v0v/4v0v/03a3268e308813e0684e916590a80b046ff3bf71/image.svg">
 </p>
 
-![](image.gif)
+![](slowpoke.gif)
 
 ![](./avatar_line_1.png)
 
