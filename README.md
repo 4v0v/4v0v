@@ -1,12 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/4v0v/4v0v/03a3268e308813e0684e916590a80b046ff3bf71/image.svg">
-  <img src="https://raw.githubusercontent.com/4v0v/4v0v/03a3268e308813e0684e916590a80b046ff3bf71/image.svg">
-  <img src="https://raw.githubusercontent.com/4v0v/4v0v/03a3268e308813e0684e916590a80b046ff3bf71/image.svg">
-  <img src="https://raw.githubusercontent.com/4v0v/4v0v/03a3268e308813e0684e916590a80b046ff3bf71/image.svg">
-  <img src="https://raw.githubusercontent.com/4v0v/4v0v/03a3268e308813e0684e916590a80b046ff3bf71/image.svg">
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/red_demon.gif" width= "300px">
   <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/blue_demon.gif" width= "300px">
 </p>
