@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/lys.gif" width="10%">
+  <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/lys.gif" width="10%" vertical-align= "middle">
   <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/leaf.gif" width="70%" vertical-align= "middle">
-  <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/lys.gif" width="10%" >
+  <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/lys.gif" width="10%"  vertical-align= "middle">
 </p>
 
 ## G4M3S
