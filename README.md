@@ -3,9 +3,10 @@
   <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/blue_demon.gif" width= "300px">
 </p>
 
-![](./avatar_line_1.png)
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/leaf.gif">
+</p>
+
 ## G4M3S
 
 - <a href="https://github.com/4v0v/br34k0ut"> BR34K0UT</a>
@@ -25,5 +26,6 @@
 - <a href="https://github.com/4v0v/phys1cs"> PHYS1CS </a>
 - <a href="https://github.com/4v0v/4n1m"> 4N1M </a>
 
----
-![](./avatar_line_2.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/4v0v/4v0v/main/leaf.gif">
+</p>
