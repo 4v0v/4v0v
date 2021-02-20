@@ -5,10 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/blue_demon.gif" width= "300px">
+  <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/blue_demon.gif">
 </p>
-
-## G4M3S
 
 - <a href="https://github.com/4v0v/br34k0ut"> BR34K0UT</a>
 - <a href="https://github.com/4v0v/sh00t"> SH00T </a>
