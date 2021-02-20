@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/lys.gif">
-<img src="https://raw.githubusercontent.com/4v0v/4v0v/main/leaf.gif">
+<img src="https://raw.githubusercontent.com/4v0v/4v0v/main/leaf.gif" width="50%">
   <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/lys.gif">
 </p>
 
