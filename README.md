@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/lys.gif" width="15%">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/blue_demon.gif" width="60%">
 </p>
 
