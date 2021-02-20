@@ -1,12 +1,11 @@
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/blue_demon.gif" width= "300px">
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/lys.gif" width="15%">
   <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/leaf.gif" width="60%">
   <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/lys.gif" width="15%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/blue_demon.gif" width= "300px">
 </p>
 
 ## G4M3S
@@ -20,13 +19,6 @@
 - <a href="https://github.com/4v0v/s0k0b4n"> S0K0B4N </a>
 - <a href="https://github.com/4v0v/scr0ll"> SCR0LL </a>
 - <a href="https://github.com/4v0v/m4r10"> M4R10 </a>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/lys.gif" width="15%">
-  <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/leaf.gif" width="60%">
-  <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/lys.gif" width="15%">
-</p>
 
 ## 0TH3RS
 
