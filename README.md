@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/games_banner.gif" height="100px">
+  <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/games_banner.gif" height="150px">
 </p>
 
 - <a href="https://github.com/4v0v/br34k0ut"> BR34K0UT</a>
@@ -17,7 +17,7 @@
 - <a href="https://github.com/4v0v/m4r10"> M4R10 </a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/others_banner.gif" height="100px">
+  <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/others_banner.gif" height="150px">
 </p>
 
 - <a href="https://github.com/4v0v/p4rs3r"> P4RS3R </a>
