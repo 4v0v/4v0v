@@ -17,6 +17,7 @@
 - <a href="https://github.com/4v0v/m4r10"> M4R10 </a>
 - <a href="https://github.com/4v0v/m0r3_3d"> M0R3_3D </a>
 - <a href="https://github.com/4v0v/sc4c3_1nv4d3rs"> SC4C3_INV4D3RS </a>
+- <a href="https://github.com/4v0v/k1n3m4t1ks"> K1N3M4T4KS </a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/4v0v/4v0v/main/others_banner.gif" height="150px">
