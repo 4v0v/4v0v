@@ -26,6 +26,7 @@
 
 - <a href="https://github.com/4v0v/p4rs3r"> LUA P4RS3R </a>
 - <a href="https://github.com/4v0v/xml_p4rs3r"> XML P4RS3R </a>
+- <a href="https://github.com/4v0v/collada_parser/"> COLLADA P4RS3R </a>
 - <a href="https://github.com/4v0v/m0nk3y"> M0NK3Y </a>
 - <a href="https://github.com/4v0v/phys1cs"> PHYS1CS </a>
 - <a href="https://github.com/4v0v/4n1m"> 4N1M </a>
